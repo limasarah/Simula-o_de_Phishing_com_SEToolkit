@@ -40,17 +40,8 @@ Como essas informações podem ser capturadas
 📂 Evidências de Execução
 As evidências coletadas durante o laboratório incluem:
 Inicialização da ferramenta
-<img width="1366" height="653" alt="logar como root e entrada settokilt" src="https://github.com/user-attachments/assets/675438d8-f560-4656-95c1-49a9d1b3bc39" />
-Seleção dos vetores de ataque
-<img width="1366" height="653" alt="pagina inicial ferramenta setookilt" src="https://github.com/user-attachments/assets/516e5035-1a22-40bf-bd96-7a31085557eb" />
-<img width="1366" height="653" alt="pagina pinishig 2" src="https://github.com/user-attachments/assets/d25e048b-3ddc-42d5-b191-9ca3c09932ea" />
-<img width="1366" height="653" alt="pagina pinishig" src="https://github.com/user-attachments/assets/c2e2f71d-3b4d-4b25-8c15-c1bfb79c14af" />
-<img width="1366" height="653" alt="rodar no servidor com modulo de maquina em modo bridge para endereco de ip" src="https://github.com/user-attachments/assets/8d884b03-475b-41be-a716-041f2a389cfd" />
 Página clonada em execução
-<img width="1366" height="653" alt="site clonado no kali" src="https://github.com/user-attachments/assets/40f28c96-1a9e-4b04-85a8-130d3f7157f3" />
-<img width="1366" height="653" alt="tentativa no site" src="https://github.com/user-attachments/assets/def0adcf-6bff-424e-a2a0-17229a774601" />
 Captura simulada de credenciais
-<img width="1366" height="653" alt="captura de imagens" src="https://github.com/user-attachments/assets/c57e4e32-89dd-4e41-af13-0092aadefd64" />
 
 📊 Resultados Observados
 Demonstração prática da eficácia de ataques de engenharia social
